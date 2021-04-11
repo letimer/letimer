@@ -1,9 +1,7 @@
 ### Hi 我还是一个在校大学僧👋
 
 <!--
-**letimer/letimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**letimer/letimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 - 🔭 I’m currently studying on ecut
 - 🌱 I’m currently learning vue,js,css,node,webpack,微信小程序
