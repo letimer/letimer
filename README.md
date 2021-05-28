@@ -1,4 +1,4 @@
-### Hi 我还是一个在校大学僧👋
+### 学习如逆水行舟，不进则退
 
 <!--
 **letimer/letimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
